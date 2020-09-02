@@ -1,2 +1,2 @@
 # scripts_of_bioinformatics
-Python and Perl scripts of Bioinformatics
+Cloud storage of Bioinformatics scripts
